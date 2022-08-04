@@ -1,5 +1,5 @@
 # An continuation of the GROCO series this is the Groco Admin (Still in Progress) made using flutter and dart and firebase as the backend, 
-Groco-Admin<img width="960" alt="GA4" src="https://user-images.githubusercontent.com/97854457/182933058-69df09d2-8060-4b15-a58f-e3aa6ad9b3a4.png">
+
 
 ![GA1](https://user-images.githubusercontent.com/97854457/182933127-03c6ae24-cd72-41d0-82b4-6aef74861c8f.jpg)
 
